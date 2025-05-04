@@ -1,8 +1,6 @@
 # frontend-developer
 ## JavaScript
-A1 - Basic Of JavaScript
-A2 - Operator
-A3 - 
-A4 - 
-A5 - 
-A6 - 
+* A1 - Basic Of JavaScript
+* A2 - Operator
+* A3 - If/else
+* A4 - functions
